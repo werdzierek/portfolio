@@ -27087,7 +27087,7 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Weronika Dzierżak",
+    name: "Weronika Dzierzak",
     title: "Student and Adventurer",
     email: "werdzie5@gmail.com",
     gitHub: "werdzierek",
@@ -28759,7 +28759,7 @@ const imageAltText = "rainbow";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Introdustion to Python",
+        title: "Introduction to Python",
         description: "Learning Python basics.",
         url: "https://app.datacamp.com/learn/courses/intro-to-python-for-data-science"
     }, 
