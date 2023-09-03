@@ -27087,7 +27087,7 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Weronika Dzierzak",
+    name: "Weronika Dzierżak",
     title: "Student and Adventurer",
     email: "werdzie5@gmail.com",
     gitHub: "werdzierek",
@@ -27187,12 +27187,12 @@ const imageAltText = "pink sky";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Coocking delicious food",
+    "Playing guitar and piano",
+    "Ride a bike",
+    "",
+    "",
+    "", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28759,7 +28759,7 @@ const imageAltText = "rainbow";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Introduction to Python",
+        title: "Introduction to Python by DataCamp",
         description: "Learning Python basics.",
         url: "https://app.datacamp.com/learn/courses/intro-to-python-for-data-science"
     }, 
